@@ -48,4 +48,5 @@ The goal of this project is to develop an IoT-based air quality classification s
 ## Step 7: Testing and Validation
 - Test the system in different real-world environments to evaluate its performance under varying air quality conditions.
 - Verify the accuracy and reliability of the classification results.
+- 
 ![image](https://github.com/user-attachments/assets/96bae0ed-2be4-4884-bf16-8793d418d4d1)
